@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Sudoku Game",
+  "description": "A fully interactive, browser-based Sudoku game website that replicates a clean, modern layout with multiple difficulty levels and user-friendly controls. Features include number input, note-taking, hints, and instant error validation.",
+  "requestFramePermissions": []
+}
